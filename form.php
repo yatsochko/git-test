@@ -5,4 +5,6 @@ class Form
     {
         return 123;
     }
+
 }
+$a = new Form();
